@@ -1,0 +1,15 @@
+/Users/marinavolkova/Desktop/C#HW/HWSem8/bin/Debug/net7.0/HWSem8
+/Users/marinavolkova/Desktop/C#HW/HWSem8/bin/Debug/net7.0/HWSem8.deps.json
+/Users/marinavolkova/Desktop/C#HW/HWSem8/bin/Debug/net7.0/HWSem8.runtimeconfig.json
+/Users/marinavolkova/Desktop/C#HW/HWSem8/bin/Debug/net7.0/HWSem8.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem8/bin/Debug/net7.0/HWSem8.pdb
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.csproj.AssemblyReference.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.AssemblyInfoInputs.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.AssemblyInfo.cs
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.csproj.CoreCompileInputs.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/refint/HWSem8.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.pdb
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/HWSem8.genruntimeconfig.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem8/obj/Debug/net7.0/ref/HWSem8.dll
